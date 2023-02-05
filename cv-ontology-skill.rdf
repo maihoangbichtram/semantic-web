@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ajax_(programming)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karate">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lasso_(programming_language)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Racket_(programming_language)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rowing_(sport)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rugby_sevens">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sailing_(sport)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JS++">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sport_climbing">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Badminton">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sport_of_athletics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WAI-ARIA">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baseball">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basketball">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_pentathlon">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surfing">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swimming_(sport)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Synchronized_swimming">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Table_tennis">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tennis">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cycle_sport">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Web_Server_Gateway_Interface">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/4th_Dimension_(software)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CSS">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canoeing">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OCaml">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/D_(programming_language)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diving_(sport)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volleyball">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zope">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Self-documenting_code">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Water_polo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Association_football">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lua_(programming_language)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympic_weightlifting">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ActiveVFP">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Golf">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gymnastics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HTML">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Handball">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hop_(software)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JavaScript">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opa_(programming_language)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PHP">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parser_(programming_language)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perl">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P*">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fencing">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archery">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triathlon">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ur_(programming_language)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoix">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Field_hockey">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shooting_sports">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Skateboarding">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taekwondo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wrestling">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Php4delphi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M_Sharp">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:range rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasProgrammingSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:subPropertyOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasSkill" />
+    <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:range rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasSportSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:subPropertyOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasSkill" />
+    <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:range rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#isSkillOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skill" />
+    <rdfs:range rdf:resource="http://dbpedia.org/ontology/Person" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#isProgrammingSkillOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:subPropertyOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#isSkillOf" />
+    <owl:inverseOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasProgrammingSkill" />
+    <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill" />
+    <rdfs:range rdf:resource="http://dbpedia.org/ontology/Person" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#isSportSkillOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:subPropertyOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#isSkillOf" />
+    <owl:inverseOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasSportSkill" />
+    <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill" />
+    <rdfs:range rdf:resource="http://dbpedia.org/ontology/Person" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#SportSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+    <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#ProgrammingSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+    <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+</rdf:RDF>

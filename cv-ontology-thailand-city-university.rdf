@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:ns3="http://users.jyu.fi/~maihbt/cv-ontology.owl#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/College_of_Management,_Mahidol_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phra_Nakhon_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phutthamonthon_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ubon_Ratchathani_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Ubon_Ratchathani_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Phayao">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Phayao_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nation_University_(Thailand)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lampang_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinawatra_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amnat_Charoen_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asian_Institute_of_Technology">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Khlong_Luang_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanchanaburi_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasem_Bundit_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Suan_Luang_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasetsart_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Chatuchak_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khon_Kaen_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khon_Kaen_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Khon_Kaen_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Mongkut&#39;s_Institute_of_Technology_Ladkrabang">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lampang">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lampang_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rangsit_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Mueang_Pathum_Thani_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Pathum_Thani_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ramkhamhaeng_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samut_Prakan_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Sai_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silpakorn_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suranaree_University_of_Technology">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nakhon_Ratchasima_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahanakorn_University_of_Technology">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pathum_Wan_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walailak_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nakhon_Si_Thammarat_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahidol_University_International_College">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nakhon_Pathom_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thonburi_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nong_Khaem_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assumption_University_(Thailand)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bang_Khen_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bangkok">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bangkok_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bunyawat_Witthayalai_School">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lampang" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phayao_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sukhothai_Thammathirat_Open_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Muang_Thong_Thani" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nonthaburi_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thaksin_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Songkhla_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thammasat_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Phra_Nakhon_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muang_Thong_Thani">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maejo_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Chiang_Mai_Province" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/San_Sai_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakhon_Nayok_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakhon_Pathom_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakhon_Ratchasima_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakhon_Sawan_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakhon_Si_Thammarat_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narathiwat_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naresuan_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Mueang_Phitsanulok_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Institute_of_Development_Administration">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nong_Khaem_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nonthaburi_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dhurakij_Pundit_University_International_College">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chanapatana_International_Design_Institute">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasin_Graduate_Institute_of_Business_Administration_of_Chulalongkorn_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mueang_Phitsanulok_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pathumwan_Institute_of_Technology">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Pathum_Wan_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Accademia_Italiana_Thailand">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiang_Mai">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiang_Mai_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Chiang_Mai" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chulalongkorn_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Pathum_Wan_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dhurakij_Pundit_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lak_Si_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cha-am_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armed_Forces_Academies_Preparatory_School">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nakhon_Nayok_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sai_Yok_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Louis_School,_Chachoengsao">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Mueang_Chachoengsao_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chulalongkorn_Business_Academic_and_Coaching_Center">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_the_Thai_Chamber_of_Commerce">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faculty_of_Law,_Thammasat_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faculty_of_Medicine,_Chulalongkorn_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Pathum_Wan_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faculty_of_Pharmaceutical_Sciences,_Chulalongkorn_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faculty_of_Social_Sciences,_Chiang_Mai_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Chiang_Mai" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Payap_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Chiang_Mai_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Krirk_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bang_Khen_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Buddhist_Studies_College">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Phra_Nakhon_Si_Ayutthaya_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ubon_Ratchathani_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thawi_Watthana_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asia-Pacific_International_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Muak_Lek_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asian_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Chonburi_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mae_Fah_Luang_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Chiang_Rai" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahidol_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Sai_Yok_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Ratchathewi_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Phayuha_Khiri_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Amnat_Charoen_Province" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Mueang_Amnat_Charoen_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok_Noi_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Phutthamonthon_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nakhon_Pathom_Province" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nakhon_Sawan_Province" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kanchanaburi_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dusit_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dusit_Thani_College">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huachiew_Chalermprakiet_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bang_Phli_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Buddhist_College">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Songkhla_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sirindhorn_International_Institute_of_Technology">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Pathum_Thani_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pathum_Thani">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pathum_Thani_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_of_Songkla_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Hat_Yai" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Songkhla_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_of_Naradhiwas_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Narathiwat_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Mongkut&#39;s_University_of_Technology_North_Bangkok">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bang_Sue_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Mongkut&#39;s_University_of_Technology_Thonburi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lak_Si_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/School_of_Information_Technology,_Shinawatra_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Pathum_Thani" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suan_Luang_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Navamindradhiraj_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Dusit_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ratchathewi_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phra_Nakhon_Si_Ayutthaya_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bang_Phli_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bang_Sue_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bangkok_Noi_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bangkokthonburi_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Thawi_Watthana_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khlong_Luang_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Defence_College_of_Thailand">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Navaminda_Kasatriyadhiraj_Royal_Thai_Air_Force_Academy">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/College_of_Internet_Distance_Education">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phasi_Charoen_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phayuha_Khiri_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Webster_University_Thailand">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Cha-am_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chatuchak_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiang_Mai_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chonburi_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiang_Rai">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Songkhla_Province">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahamakut_Buddhist_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hat_Yai">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hatyai_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Hat_Yai" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahapanya_Vidayalai">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Hat_Yai" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahasarakham_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kantharawichai_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siam_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Phet_Kasem_Road" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Phasi_Charoen_District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_John&#39;s_Group_of_Schools_and_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mueang_Chachoengsao_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phahonyothin_Road">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kantharawichai_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muak_Lek_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mueang_Amnat_Charoen_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mueang_Pathum_Thani_District">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phet_Kasem_Road">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Thai_Naval_Academy">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Samut_Prakan_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Srinakharinwirot_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sripatum_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Chatuchak_District" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Phahonyothin_Road" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stenden_Rangsit_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Bangkok" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#City">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Thailand">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+    <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasInCity">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University" />
+    <rdfs:range rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Thailand">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+    <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#isCityFor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <owl:inverseOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasInCity" />
+    <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+    <rdfs:range rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University" />
+  </rdf:Description>
+</rdf:RDF>

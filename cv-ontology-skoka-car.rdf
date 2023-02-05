@@ -1,0 +1,561 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:dbo="http://dbpedia.org/ontology/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dbpedia.org/ontology/thumbnail -->
+
+    <ObjectProperty rdf:about="http://dbpedia.org/ontology/thumbnail">
+        <inverseOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#isThumbnailOf"/>
+        <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Car"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </ObjectProperty>
+    
+
+
+    <!-- http://users.jyu.fi/~maihbt/cv-ontology.owl#isThumbnailOf -->
+
+    <ObjectProperty rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#isThumbnailOf"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dbpedia.org/ontology/Image -->
+
+    <Class rdf:about="http://dbpedia.org/ontology/Image"/>
+    
+
+
+    <!-- http://users.jyu.fi/~maihbt/cv-ontology.owl#Car -->
+
+    <Class rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#Car"/>
+    
+
+
+    <!-- http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car -->
+
+    <Class rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car">
+        <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Car"/>
+    </Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-014_(cropped).jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-014_(cropped).jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-095.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-095.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-121.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-121.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/1955_Skoda_1200_(2568618690).jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/1955_Skoda_1200_(2568618690).jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/2015-03-03_Geneva_Motor_Show_4060.JPG?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/2015-03-03_Geneva_Motor_Show_4060.JPG?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Brno,_Mahenova,_Škoda_1202_(02).jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Brno,_Mahenova,_Škoda_1202_(02).jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/DerNeueFabia.JPG?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/DerNeueFabia.JPG?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Garde_Front.JPG?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Garde_Front.JPG?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Old_Skoda_Rapid_2.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Old_Skoda_Rapid_2.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Octavia-2.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Octavia-2.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Yeti-exterior-front.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Yeti-exterior-front.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-museum-mlada-boleslav-rr-076.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-museum-mlada-boleslav-rr-076.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-vos-l.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-vos-l.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda1203Brumov-BylniceAlofok_(4).JPG?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda1203Brumov-BylniceAlofok_(4).JPG?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda130estelle.JPG?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda130estelle.JPG?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/SkodaSuperB.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/SkodaSuperB.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_105S_-_front.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_105S_-_front.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_1201_Stationsvagn_1959.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_1201_Stationsvagn_1959.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_130_Rapid.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_130_Rapid.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Favorit_Utrecht_1989.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Favorit_Utrecht_1989.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Felicia_outside_Robinson.JPG?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Felicia_outside_Robinson.JPG?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Octavia_Combi_1.6_TDI_Ambition_(III)_–_Frontansicht,_11._August_2013,_Essen.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Octavia_Combi_1.6_TDI_Ambition_(III)_–_Frontansicht,_11._August_2013,_Essen.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Roomster_front_20091212.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Roomster_front_20091212.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_S100_Greensted.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_S100_Greensted.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/ŠkodaFabiaS2000(2009).jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/ŠkodaFabiaS2000(2009).jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_1101_tudor.JPG?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_1101_tudor.JPG?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_110_R_1977.jpg?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_110_R_1977.jpg?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_Rapid_registered_March_2013_1598cc.JPG?width=300 -->
+
+    <NamedIndividual rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_Rapid_registered_March_2013_1598cc.JPG?width=300">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Image"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_100 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_100">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_S100_Greensted.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_1000_MB -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_1000_MB">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-121.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_110_R -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_110_R">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_110_R_1977.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_120 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_120">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_105S_-_front.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_1200 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_1200">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/1955_Skoda_1200_(2568618690).jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_1201 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_1201">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_1201_Stationsvagn_1959.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_1202 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_1202">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Brno,_Mahenova,_Škoda_1202_(02).jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_1203 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_1203">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda1203Brumov-BylniceAlofok_(4).JPG?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_130 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_130">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda130estelle.JPG?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_440 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_440">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-museum-mlada-boleslav-rr-076.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Fabia -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Fabia">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/DerNeueFabia.JPG?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Fabia_S2000 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Fabia_S2000">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/ŠkodaFabiaS2000(2009).jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Favorit -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Favorit">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Favorit_Utrecht_1989.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Felicia -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Felicia">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Felicia_outside_Robinson.JPG?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Garde -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Garde">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Garde_Front.JPG?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Octavia -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Octavia">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Octavia_Combi_1.6_TDI_Ambition_(III)_–_Frontansicht,_11._August_2013,_Essen.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Popular -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Popular">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-095.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Roomster -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Roomster">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Roomster_front_20091212.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Superb -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Superb">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/2015-03-03_Geneva_Motor_Show_4060.JPG?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_VOS -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_VOS">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-vos-l.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Yeti -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Yeti">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Yeti-exterior-front.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_1101/1102 -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_1101/1102">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_1101_tudor.JPG?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Felicia_(1959–64) -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Felicia_(1959–64)">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-014_(cropped).jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Octavia_(1959–71) -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Octavia_(1959–71)">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Octavia-2.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Rapid_(1935–47) -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Rapid_(1935–47)">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Old_Skoda_Rapid_2.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Rapid_(1984) -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Rapid_(1984)">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_130_Rapid.jpg?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Rapid_(2012) -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Rapid_(2012)">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_Rapid_registered_March_2013_1598cc.JPG?width=300"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Škoda_Superb_(1934–1949) -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Škoda_Superb_(1934–1949)">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car"/>
+        <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/SkodaSuperB.jpg?width=300"/>
+    </NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

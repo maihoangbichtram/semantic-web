@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:ns2="http://users.jyu.fi/~maihbt/cv-ontology.owl#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mänttä-Vilppula">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savonlinna">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaarina">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kemi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kokkola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotka">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saarijärvi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stockholm">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+    <ns2:isCapitalOf rdf:resource="http://dbpedia.org/resource/Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweden">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Nordic_Country" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurajoki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuusamo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariehamn">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parkano">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varkaus">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ylivieska">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohmajärvi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salo,_Finland">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tampere">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turku">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaasa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norway">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Nordic_Country" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riihimäki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rovaniemi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikkeli">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raahe">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Copenhagen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+    <ns2:isCapitalOf rdf:resource="http://dbpedia.org/resource/Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denmark">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Nordic_Country" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vantaa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tuusula">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uusikaupunki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savitaipale">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulvila">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toivakka">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viitasaari">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veteli">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seinäjoki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asikkala">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hollola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Janakkala">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finland">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Nordic_Country" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forssa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helsinki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+    <ns2:isCapitalOf rdf:resource="http://dbpedia.org/resource/Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyvinkää">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iceland">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Nordic_Country" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oulu">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huittinen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kerava">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lahti">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pieksämäki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kirkkonummi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitee">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kittilä">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kokemäki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kouvola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyyjärvi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lappeenranta">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laukaa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Espoo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joensuu">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jyväskylä">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuopio">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oslo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+    <ns2:isCapitalOf rdf:resource="http://dbpedia.org/resource/Norway" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pori">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nurmijärvi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lieksa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lohja">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mäntyharju">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naantali">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakkila">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nastola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virrat">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamina">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harjavalta">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reykjavík">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+    <ns2:isCapitalOf rdf:resource="http://dbpedia.org/resource/Iceland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taipalsaari">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Äänekoski">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hämeenlinna">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iisalmi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikaalinen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilmajoki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imatra">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Järvenpää">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamppi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kangasala">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kangasniemi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karkkila">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kauniainen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kemijärvi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orimattila">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pargas">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pirkkala">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Porvoo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vuokatti">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#isCapitalOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+    <rdfs:range rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Country" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#City">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+    <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#Nordic_Country">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+    <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Country" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#Country">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+</rdf:RDF>

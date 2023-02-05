@@ -1,0 +1,1184 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <Ontology>
+        <rdfs:comment>PREFIX owl: &lt;http://www.w3.org/2002/07/owl#&gt;
+PREFIX xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt;
+PREFIX rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+PREFIX db: &lt;http://dbpedia.org/page/&gt;
+PREFIX dbpedia: &lt;http://dbpedia.org/&gt;
+PREFIX dbo: &lt;http://dbpedia.org/ontology/&gt;
+
+PREFIX : &lt;http://users.jyu.fi/~maihbt/cv-ontology.owl#&gt;
+
+CONSTRUCT {
+	:Ethnic_Group a owl:Class.
+	:Southeast_Asia_Ethnic_Group 	a 		owl:Class; 
+					rdfs:subClassOf	:Ethnic_Group .
+	?x a :Southeast_Asia_Ethnic_Group
+} WHERE {
+	dbr:Ethnic_groups_of_Southeast_Asia dbo:wikiPageWikiLink ?x .
+	?x rdfs:label ?label.
+	FILTER REGEX(?label, &quot;people&quot;, &quot;i&quot;)
+}</rdfs:comment>
+    </Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://users.jyu.fi/~maihbt/cv-ontology.owl#Ethnic_Group -->
+
+    <Class rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#Ethnic_Group"/>
+    
+
+
+    <!-- http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group -->
+
+    <Class rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group">
+        <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Ethnic_Group"/>
+    </Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dbpedia.org/resource/Acehnese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Acehnese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Aeta_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Aeta_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Aklanon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Aklanon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Andamanese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Andamanese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Anglo-Burmese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Anglo-Burmese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Ati_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Ati_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Baduy_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Baduy_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Bahnar_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Bahnar_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Balinese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Balinese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Bamar_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Bamar_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Banjar_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Banjar_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Bantenese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Bantenese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Bicolano_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Bicolano_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Boholano_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Boholano_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Butuanon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Butuanon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Cantonese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Cantonese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Capiznon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Capiznon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Cebuano_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Cebuano_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Cham_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Cham_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Chin_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Chin_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Chinese_people_in_Myanmar -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Chinese_people_in_Myanmar">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Chut_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Chut_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Cuyunon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Cuyunon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Dayak_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Dayak_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Eskaya_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Eskaya_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Filipino_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Filipino_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Fuzhou_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Fuzhou_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Gaddang_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Gaddang_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Gan_Chinese-speaking_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Gan_Chinese-speaking_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Gejia_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Gejia_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Gha-Mu_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Gha-Mu_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Hadhrami_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Hadhrami_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Hainanese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Hainanese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Hakka_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Hakka_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Han_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Han_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Hebei_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Hebei_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Hiligaynon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Hiligaynon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Hmong_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Hmong_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Hokkien_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Hokkien_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Ibaloi_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Ibaloi_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Iban_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Iban_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Ibanag_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Ibanag_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Ifugao_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Ifugao_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Igorot_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Igorot_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Ilocano_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Ilocano_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Ilongot_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Ilongot_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Indigenous_peoples_of_Southeast_Asia -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Indigenous_peoples_of_Southeast_Asia">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Indo_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Indo_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Iranun_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Iranun_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Isneg_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Isneg_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Ivatan_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Ivatan_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Jarai_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Jarai_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Javanese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Javanese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Jianghuai_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Jianghuai_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kachin_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kachin_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kadai_peoples -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kadai_peoples">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kalagan_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kalagan_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kalinga_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kalinga_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kapampangan_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kapampangan_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Karay-a_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Karay-a_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Karen_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Karen_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Karenni_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Karenni_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Katuic_peoples -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Katuic_peoples">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Khmer_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Khmer_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Khmu_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Khmu_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kokang_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kokang_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kristang_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kristang_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kuki_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kuki_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kwongsai_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kwongsai_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Lao_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Lao_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Lu_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Lu_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Lumad_peoples -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Lumad_peoples">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Madurese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Madurese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Maguindanao_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Maguindanao_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Mandar_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Mandar_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Mangyan_peoples -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Mangyan_peoples">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Mani_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Mani_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Maranao_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Maranao_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Masbateño_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Masbateño_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Meitei_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Meitei_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Miao_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Miao_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Mien_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Mien_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Minangkabau_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Minangkabau_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Mizo_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Mizo_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Molbog_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Molbog_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Mon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Mon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Moro_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Moro_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Multiracial_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Multiracial_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Muong_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Muong_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Murut_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Murut_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Naga_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Naga_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Nicobarese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Nicobarese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Nung_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Nung_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Nyaw_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Nyaw_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Osing_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Osing_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Pa_Then_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Pa_Then_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Palaung_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Palaung_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Pangasinan_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Pangasinan_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Pear_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Pear_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Porohanon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Porohanon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Putian_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Putian_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Rakhine_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Rakhine_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Rohingya_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Rohingya_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Romblomanon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Romblomanon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Saek_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Saek_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Sama_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Sama_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Sambal_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Sambal_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/San_Diu_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/San_Diu_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Sangirese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Sangirese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Sasak_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Sasak_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Shan_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Shan_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Shandong_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Shandong_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Shanghainese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Shanghainese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/She_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/She_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Subanon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Subanon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Sumbawa_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Sumbawa_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Sundanese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Sundanese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Surigaonon_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Surigaonon_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Tagalog_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Tagalog_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Tai_Dón_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Tai_Dón_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Taishanese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Taishanese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Tanka_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Tanka_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Tausug_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Tausug_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Tay_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Tay_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Tenggerese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Tenggerese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Teochew_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Teochew_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Thai_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Thai_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Thổ_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Thổ_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Vietnamese_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Vietnamese_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Wa_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Wa_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Waray_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Waray_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Wenzhou_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Wenzhou_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Wu_Chinese-speaking_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Wu_Chinese-speaking_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Yakan_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Yakan_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Zamboangueño_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Zamboangueño_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Zo_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Zo_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/B&apos;laan_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/B&apos;laan_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/Kam–Sui_peoples -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/Kam–Sui_peoples">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://dbpedia.org/resource/T&apos;boli_people -->
+
+    <NamedIndividual rdf:about="http://dbpedia.org/resource/T&apos;boli_people">
+        <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Southeast_Asia_Ethnic_Group"/>
+    </NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

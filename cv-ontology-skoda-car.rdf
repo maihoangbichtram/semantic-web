@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_1200">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="de">Škoda 1200</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda 1200</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda 1200/1201/1202</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda 1200</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda 1200/1201</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda 1200</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda 1200</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda 1200</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/1955_Skoda_1200_(2568618690).jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_100">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="sv">Škoda 100</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda 100</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda 100</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda 100</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda 100</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda 100</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda 100/110</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Serie 100</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda 100</rdfs:label>
+    <rdfs:label xml:lang="ar">سكودا 100</rdfs:label>
+    <rdfs:label xml:lang="ja">シュコダ・100</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda 100</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda 100</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_S100_Greensted.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_1201">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="en">Škoda 1201</rdfs:label>
+    <rdfs:label xml:lang="es">Škoda 1201</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda 1201</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda 1201</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda 1201</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda 1201</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_1201_Stationsvagn_1959.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_1000_MB">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="en">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="ar">سكودا 1000 إم بي</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda 1000 MB</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda 1000 MB</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-121.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_1202">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="en">Škoda 1202</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda 1202</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda 1202</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda 1202</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda 1202</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Brno,_Mahenova,_Škoda_1202_(02).jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Felicia_(1959–64)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="el">Škoda Felicia (1959)</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Felicia (1959)</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Felicia (1959–64)</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Felicia (1959)</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-014_(cropped).jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Superb">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="in">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="zh">斯柯達Superb</rdfs:label>
+    <rdfs:label xml:lang="es">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="pt">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Superb</rdfs:label>
+    <rdfs:label xml:lang="ja">シュコダ・スペルブ</rdfs:label>
+    <rdfs:label xml:lang="ar">سكودا سوبرب</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Superb</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/2015-03-03_Geneva_Motor_Show_4060.JPG?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Rapid_(1984)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="de">Škoda Rapid (1984)</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Rapid (1984)</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Rapid (1984)</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda 743</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Rapid (1984)</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda Rapid (1984)</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Rapid (1981)</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_130_Rapid.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_120">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="cs">Škoda 742</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda 105/120/125</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda 742</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda 120</rdfs:label>
+    <rdfs:label xml:lang="ja">シュコダ・120</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda 742</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda 742</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda 105/120</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda 742</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda 742</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda 742</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda 742</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_105S_-_front.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Superb_(1934–1949)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="ru">Škoda Superb (1934—1949)</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Superb (1934–1949)</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Superb (1934)</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Superb (1934)</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Superb (1934)</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Superb (1934)</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Superb (1934)</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda Superb (1934)</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/SkodaSuperB.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Felicia">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="sv">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="es">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="pt">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="in">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Felicia</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Felicia</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Felicia_outside_Robinson.JPG?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Octavia_(1959–71)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="en">Škoda Octavia (1959–71)</rdfs:label>
+    <rdfs:label xml:lang="es">Škoda Octavia (1959)</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Octavia (1959)</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda Octavia (1959—1971)</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Octavia (1959)</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Octavia (1959)</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Octavia (1959)</rdfs:label>
+    <rdfs:label xml:lang="pt">Skoda Octavia (1959-71)</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda Octavia (1959–1971)</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Octavia (1959)</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Octavia (1959)</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Octavia-2.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Roomster">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="nl">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="es">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="ja">シュコダ・ルームスター</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="pt">Škoda Roomster</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Roomster</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Roomster_front_20091212.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Popular">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="en">Škoda Popular</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Popular</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Popular</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Popular</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Popular</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-095.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Rapid_(2012)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="ca">Škoda Rapid (2012)</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Rapid (2012)</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Rapid</rdfs:label>
+    <rdfs:label xml:lang="ar">سكودا رابيد (2012)</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Rapid (2012)</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Rapid</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Rapid (2012)</rdfs:label>
+    <rdfs:label xml:lang="es">Škoda Rapid (2012)</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda Rapid (2012)</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Rapid (2012)</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Rapid (2012)</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda Rapid (2012)</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_Rapid_registered_March_2013_1598cc.JPG?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_VOS">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="ru">Škoda VOS</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda VOS</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda VOS</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda VOS</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda VOS</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda VOS</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda VOS</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda VOS</rdfs:label>
+    <rdfs:label xml:lang="ja">シュコダ・VOS</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-vos-l.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-museum-mlada-boleslav-rr-076.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-vos-l.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_1201_Stationsvagn_1959.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_130_Rapid.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Favorit_Utrecht_1989.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Roomster_front_20091212.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_S100_Greensted.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Fabia">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="it">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="ar">سكودا فابيا</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="in">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="ca">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="zh">斯柯达晶锐</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="pt">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="es">Škoda Fabia</rdfs:label>
+    <rdfs:label xml:lang="ja">シュコダ・ファビア</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/DerNeueFabia.JPG?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Favorit">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="en">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="es">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda Favorit</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Favorit</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Favorit_Utrecht_1989.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Garde">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="de">Škoda Garde</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda Garde</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Garde</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Garde</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Garde_Front.JPG?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Octavia">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="ja">シュコダ・オクタヴィア</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="ca">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda Octavia (1996)</rdfs:label>
+    <rdfs:label xml:lang="in">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="es">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="pt">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="zh">斯柯达明锐</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda Octavia</rdfs:label>
+    <rdfs:label xml:lang="ar">سكودا أوكتافيا</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Octavia_Combi_1.6_TDI_Ambition_(III)_–_Frontansicht,_11._August_2013,_Essen.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Fabia_S2000">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="es">Škoda Fabia S2000</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda Fabia Super 2000</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Fabia S2000</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Fabia S2000</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Fabia S2000</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Fabia S2000</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/ŠkodaFabiaS2000(2009).jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-014_(cropped).jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-095.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/13-04-05-Skoda_Museum_Mladá_Boleslav_by_RalfR-121.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_1101/1102">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="en">Škoda 1101/1102</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda 1101 Tudor</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda 1101/1102</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda 1101/1102</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda 1101/1102</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda 1101/1102</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda 1101 Tudor</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_1101_tudor.JPG?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/1955_Skoda_1200_(2568618690).jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_110_R">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="cs">Škoda 110 R</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda 110 R</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda 110 R</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda 110 R</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_110_R_1977.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_1203">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="uk">Škoda 1203</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda 1203</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda 1203</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda 1203</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda 1203</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda 1203</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda 1203</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda1203Brumov-BylniceAlofok_(4).JPG?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_130">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="en">Škoda 130</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda130estelle.JPG?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Rapid_(1935–47)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="cs">Škoda Rapid (1935)</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Rapid (1935)</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Rapid (1935)</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Rapid (1935–47)</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Rapid (1935)</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Old_Skoda_Rapid_2.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_Yeti">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="es">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="ar">سكودا يتي</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="uk">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="ja">シュコダ・イエティ</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="ca">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="sv">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda Yeti</rdfs:label>
+    <rdfs:label xml:lang="zh">斯柯达野帝</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda Yeti</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Yeti-exterior-front.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Image">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_440">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car" />
+    <rdfs:label xml:lang="uk">Škoda 440</rdfs:label>
+    <rdfs:label xml:lang="ru">Škoda 440</rdfs:label>
+    <rdfs:label xml:lang="fr">Škoda 440</rdfs:label>
+    <rdfs:label xml:lang="pl">Škoda 440</rdfs:label>
+    <rdfs:label xml:lang="nl">Škoda 440</rdfs:label>
+    <rdfs:label xml:lang="it">Škoda 440</rdfs:label>
+    <rdfs:label xml:lang="cs">Škoda 440</rdfs:label>
+    <rdfs:label xml:lang="en">Škoda 440</rdfs:label>
+    <rdfs:label xml:lang="el">Škoda 440</rdfs:label>
+    <rdfs:label xml:lang="de">Škoda 440</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-museum-mlada-boleslav-rr-076.jpg?width=300" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Old_Skoda_Rapid_2.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Brno,_Mahenova,_Škoda_1202_(02).jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/thumbnail">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Car" />
+    <rdfs:range rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/ŠkodaFabiaS2000(2009).jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_110_R_1977.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Yeti-exterior-front.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_1101_tudor.JPG?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/2015-03-03_Geneva_Motor_Show_4060.JPG?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Felicia_outside_Robinson.JPG?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Garde_Front.JPG?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Škoda_Rapid_registered_March_2013_1598cc.JPG?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_Octavia_Combi_1.6_TDI_Ambition_(III)_–_Frontansicht,_11._August_2013,_Essen.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/DerNeueFabia.JPG?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#Skoda_Car">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+    <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Car" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#Car">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#isThumbnailOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <owl:inverseOf rdf:resource="http://dbpedia.org/ontology/thumbnail" />
+    <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Image" />
+    <rdfs:range rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#Car" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda130estelle.JPG?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda_105S_-_front.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda-Octavia-2.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/Skoda1203Brumov-BylniceAlofok_(4).JPG?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://commons.wikimedia.org/wiki/Special:FilePath/SkodaSuperB.jpg?width=300">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Image" />
+  </rdf:Description>
+</rdf:RDF>

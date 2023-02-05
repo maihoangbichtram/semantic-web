@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:ns3="http://users.jyu.fi/~maihbt/cv-ontology.owl#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mänttä-Vilppula">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savonlinna">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Jyväskylä">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="eo">Universitato de Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="pt">Universidade de Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة يوفاسكولا</rdfs:label>
+    <rdfs:label xml:lang="pl">Uniwersytet w Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="fr">Université de Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет Йювяскюля</rdfs:label>
+    <rdfs:label xml:lang="sv">Jyväskylä universitet</rdfs:label>
+    <rdfs:label xml:lang="nl">Universiteit van Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="zh">于韦斯屈莱大学</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="uk">Університет Ювяскюля</rdfs:label>
+    <rdfs:label xml:lang="ja">ユヴァスキュラ大学</rdfs:label>
+    <rdfs:label xml:lang="it">Università di Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="en">University of Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="cs">Jyväskylská univerzita</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.jyu.fi/en/research/excellence-in-research/rankings/rankings" />
+    <ns3:hasWebpageObj rdf:resource="https://www.jyu.fi/en/university/history-and-campus/campus-and-history" />
+    <ns3:hasWebpageObj rdf:resource="https://www.jyu.fi/en/research/excellence-in-research/centres-of-excellence-in-research" />
+    <ns3:hasWebpageObj rdf:resource="https://www.jyu.fi/en/research/excellence-in-research/erc-funded-researchers/erc-funded-researchers-european-research-council" />
+    <ns3:hasWebpageObj rdf:resource="https://www.jyu.fi/en/research/excellence-in-research/academy-professors/academy-professors" />
+    <ns3:hasWebpageObj rdf:resource="http://architectuul.com" />
+    <ns3:hasWebpageObj rdf:resource="http://architectuul.com/architecture/jyvaskyla-university" />
+    <ns3:hasWebpageObj rdf:resource="https://www.jyu.fi/en/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Jyväskylä" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.laureaes.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.laureamko.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.laurea.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kemi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kokkola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotka">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saarijärvi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savonia_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="ru">Университет прикладных наук Савонии</rdfs:label>
+    <rdfs:label xml:lang="de">Fachhochschule Savonia</rdfs:label>
+    <rdfs:label xml:lang="en">Savonia University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées Savonia</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20110104195413/http:/portal.savonia.fi/amk/english/apply-to-degree-programmes" />
+    <ns3:hasWebpageObj rdf:resource="http://www.savonia.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.savotta.org/sw" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Varkaus" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Iisalmi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kuopio" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JAMK_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="fr">Université des sciences appliquées de Jyväskylä</rdfs:label>
+    <rdfs:label xml:lang="en">JAMK University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="pl">Jyväskylän ammattikorkeakoulu</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.jamk.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Saarijärvi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Jyväskylä" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jakobstad">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varkaus">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Åbo_Akademi_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="uk">Академія Обу</rdfs:label>
+    <rdfs:label xml:lang="pt">Universidade Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="ca">Universitat Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="sv">Stiftelsen för Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="zh">奥博学术大学</rdfs:label>
+    <rdfs:label xml:lang="eo">Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="ja">オーボ・アカデミー大学</rdfs:label>
+    <rdfs:label xml:lang="en">Åbo Akademi University</rdfs:label>
+    <rdfs:label xml:lang="de">Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="nl">Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="ru">Академия Або</rdfs:label>
+    <rdfs:label xml:lang="it">Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="ar">أوبو أكاديمي</rdfs:label>
+    <rdfs:label xml:lang="sv">Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="ga">Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="pl">Åbo Akademi</rdfs:label>
+    <rdfs:label xml:lang="fr">Académie d&#39;Åbo</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.abo.fi/%3Flang=en" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Turku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ylivieska">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://amk20.haaga-helia.fi/en/HAAGA-HELIAs_roots">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myy.helia.fi/~mba/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.edamba.eu/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.haaga-helia.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hankennetwork.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.shs.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.hanken.fi/en/node/470">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.shs.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.humak.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.youtube.com/watch%3Fv=AUCjD8pyIfQ">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.unprme.org/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.eiasm.org/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myy.helia.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.haaga-helia.fi/en/about-haaga-helia/haaga-helia-in-a-nutshell">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.hanken.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.unprme.org">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.karelia.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tokem.fi/In_English/Home.iw3">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://edu.tokem.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20120912024928/http:/bit.tokem.fi/ktuas/liike.html">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arcada_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="fr">Université des sciences appliquées Arcada</rdfs:label>
+    <rdfs:label xml:lang="sv">Yrkeshögskolan Arcada</rdfs:label>
+    <rdfs:label xml:lang="en">Arcada University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.arcada.fi/en" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tampere_University_of_Technology">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="nl">Technische Universiteit Tampere</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad Tecnológica de Tampere</rdfs:label>
+    <rdfs:label xml:lang="it">Università di tecnologia di Tampere</rdfs:label>
+    <rdfs:label xml:lang="fr">Université technologique de Tampere</rdfs:label>
+    <rdfs:label xml:lang="uk">Технологічний університет Тампере</rdfs:label>
+    <rdfs:label xml:lang="en">Tampere University of Technology</rdfs:label>
+    <rdfs:label xml:lang="zh">坦佩雷理工大学</rdfs:label>
+    <rdfs:label xml:lang="de">Technische Universität Tampere</rdfs:label>
+    <rdfs:label xml:lang="sv">Tammerfors tekniska universitet</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة تامبيري للتكنولوجيا</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.tut.fi/en/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Tampere" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Novia_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Novia University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="sv">Yrkeshögskolan Novia</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées Novia</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.novia.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.novia.fi/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Jakobstad" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Vaasa" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Turku" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Raseborg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seinäjoki_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="fr">Université des sciences appliquées de Seinäjoki</rdfs:label>
+    <rdfs:label xml:lang="de">Seinäjoki University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="en">Seinäjoki University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.seamk.fi/in_english.iw3" />
+    <ns3:hasWebpageObj rdf:resource="http://www.seamk.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samo.fi/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.frami.fi/briefly-in-english/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Seinäjoki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vierumäki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turku_Centre_for_Medieval_and_Early_Modern_Studies">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Turku Centre for Medieval and Early Modern Studies</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.utu.fi/en/units/hum/sites/tucemems/Pages/home.aspx/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.utu.fi/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.tucemems.utu.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Turku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.aalto.fi/en/studies/admissions">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.idbm.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.businessweek.com/stories/2009-11-09/new-design-programs-emerging-worldwide">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.diak.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.lab.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ltky.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.lut.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.xamk.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.lab.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.lut.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LAB_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Yrkeshögskolan LAB</rdfs:label>
+    <rdfs:label xml:lang="en">LAB University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.lab.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.lab.fi/en" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lappeenranta" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lahti" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salo,_Finland">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tampere">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turku">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaasa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Defence_University_(Finland)">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="ja">フィンランド国防大学</rdfs:label>
+    <rdfs:label xml:lang="es">Escuela Superior de Defensa Nacional (Finlandia)</rdfs:label>
+    <rdfs:label xml:lang="sv">Försvarshögskolan, Finland</rdfs:label>
+    <rdfs:label xml:lang="ca">Universitat Nacional de Defensa (Finlàndia)</rdfs:label>
+    <rdfs:label xml:lang="fr">Grande école de la défense nationale finlandaise</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة الدفاع الوطني (فنلندا)</rdfs:label>
+    <rdfs:label xml:lang="en">National Defence University (Finland)</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.mpkk.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.mpkk.fi/" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20160213155540/http:/www.puolustusvoimat.fi/en/National_Defence_University/Front_Page/%3Furile=wcm%3Apath%3A%2Fen%20puolustusvoimat.fi%2FPuolustusvoimat.fi%20en%2FNational%20Defence%20University%2FFront%20Page%2F" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diaconia_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Yrkeshögskolan Diakonia</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées Diakonia</rdfs:label>
+    <rdfs:label xml:lang="en">Diaconia University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.diak.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Pieksämäki" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Oulu" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Turku" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Pori" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riihimäki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Vaasa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="nl">Universiteit van Vaasa</rdfs:label>
+    <rdfs:label xml:lang="fr">Université de Vaasa</rdfs:label>
+    <rdfs:label xml:lang="sv">Vasa universitet</rdfs:label>
+    <rdfs:label xml:lang="en">University of Vaasa</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Vaasa</rdfs:label>
+    <rdfs:label xml:lang="zh">瓦萨大学</rdfs:label>
+    <rdfs:label xml:lang="uk">Вааський університет</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Vaasa</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة فآسا</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.vaasahighedu.fi/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.voas.fi" />
+    <ns3:hasWebpageObj rdf:resource="https://osuva.uwasa.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.uva.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.uwasa.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://taika.uwasa.fi/crisyp/disp/_/en/welcome/nop%3Fkieli=1&amp;menuid=0" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Vaasa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oulu_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Oulu University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées d&#39;Oulu</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет прикладных наук Оулу</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.oamk.fi/en/study-at-oamk/school-of-professional-teacher-education" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oamk.fi/en/study-at-oamk/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oamk.fi/en/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Oulu" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rovaniemi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikkeli">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_the_Arctic">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="zh">北極大學</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет Арктики</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad del Ártico</rdfs:label>
+    <rdfs:label xml:lang="de">Universität der Arktis</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة القطب الشمالي</rdfs:label>
+    <rdfs:label xml:lang="sv">University of the Arctic</rdfs:label>
+    <rdfs:label xml:lang="uk">Університет Арктики</rdfs:label>
+    <rdfs:label xml:lang="en">University of the Arctic</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.uarctic.org/" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20071010141229/http:/www.uarctic.org/governance_structure_os_230507_asosradn_RbRaX.pdf.file" />
+    <ns3:hasWebpageObj rdf:resource="http://www.uarctic.org" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Rovaniemi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salpaus_Further_Education">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Salpaus Further Education</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.salpaus.fi/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.salpaus.fi/english/Sivut/default.aspx" />
+    <ns3:hasWebpageObj rdf:resource="http://www.phkk.fi/english/Sivut/default.aspx" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nastola" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Orimattila" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Heinola" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Hollola" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Asikkala" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lahti" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Lapland">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="ru">Лапландский университет</rdfs:label>
+    <rdfs:label xml:lang="nl">Universiteit van Lapland</rdfs:label>
+    <rdfs:label xml:lang="sv">Lapplands universitet</rdfs:label>
+    <rdfs:label xml:lang="it">Università della Lapponia</rdfs:label>
+    <rdfs:label xml:lang="fr">Université de Laponie</rdfs:label>
+    <rdfs:label xml:lang="en">University of Lapland</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة لابي</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Laponia</rdfs:label>
+    <rdfs:label xml:lang="zh">拉普蘭大學</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Lappland</rdfs:label>
+    <rdfs:label xml:lang="eo">Universitato de Laponio</rdfs:label>
+    <rdfs:label xml:lang="eu">Lappiko Unibertsitatea</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.ulapland.fi/InEnglish" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Rovaniemi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aalto_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="ru">Университет Аалто</rdfs:label>
+    <rdfs:label xml:lang="it">Università Aalto</rdfs:label>
+    <rdfs:label xml:lang="de">Aalto-Universität</rdfs:label>
+    <rdfs:label xml:lang="en">Aalto University</rdfs:label>
+    <rdfs:label xml:lang="zh">阿尔托大学</rdfs:label>
+    <rdfs:label xml:lang="nl">Aalto-universiteit</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة آلتو</rdfs:label>
+    <rdfs:label xml:lang="cs">Aaltova univerzita</rdfs:label>
+    <rdfs:label xml:lang="uk">Університет Аалто</rdfs:label>
+    <rdfs:label xml:lang="sv">Aalto-universitetet</rdfs:label>
+    <rdfs:label xml:lang="fr">Université Aalto</rdfs:label>
+    <rdfs:label xml:lang="ko">알토 대학교</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad Aalto</rdfs:label>
+    <rdfs:label xml:lang="ja">アールト大学</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.baltech.info" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20120205184913/http:/econ.aalto.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://chem.aalto.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://sci.aalto.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://eng.aalto.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://econ.aalto.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://arts.aalto.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://elec.aalto.fi/en/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Espoo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aalto_University_School_of_Arts,_Design_and_Architecture">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Aalto-universitetets högskola för konst, design och arkitektur</rdfs:label>
+    <rdfs:label xml:lang="zh">阿尔托大学艺术设计学院</rdfs:label>
+    <rdfs:label xml:lang="ru">Высшая школа искусств, дизайна и архитектуры Университета Аалто</rdfs:label>
+    <rdfs:label xml:lang="uk">Вища школа мистецтв, дизайну та архітектури Університету Аалто</rdfs:label>
+    <rdfs:label xml:lang="ja">ヘルシンキ芸術デザイン大学</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Arte y Diseño (Helsinki)</rdfs:label>
+    <rdfs:label xml:lang="fr">École supérieure Aalto d&#39;art, de design et d&#39;architecture d&#39;Helsinki</rdfs:label>
+    <rdfs:label xml:lang="en">Aalto University School of Arts, Design and Architecture</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.lume.fi/lumenet.nsf/paasivut/base_eng" />
+    <ns3:hasWebpageObj rdf:resource="http://ak.ayy.fi/ak/" />
+    <ns3:hasWebpageObj rdf:resource="http://media.aalto.fi/fi/" />
+    <ns3:hasWebpageObj rdf:resource="http://arts.aalto.fi/en" />
+    <ns3:hasWebpageObj rdf:resource="https://archive.is/20130106204150/http:/www.taik.fi/tokyo" />
+    <ns3:hasWebpageObj rdf:resource="http://arts.aalto.fi/en/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Espoo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aalto_University_School_of_Chemical_Engineering">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Aalto-universitetets högskola för kemiteknik</rdfs:label>
+    <rdfs:label xml:lang="en">Aalto University School of Chemical Engineering</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-chemical-engineering" />
+    <ns3:hasWebpageObj rdf:resource="https://www.aalto.fi/en/study-options/kemian-tekniikka-tekniikan-kandidaatti-ja-diplomi-insinoori" />
+    <ns3:hasWebpageObj rdf:resource="https://www.aalto.fi/en/school-of-chemical-engineering/research-infrastructure" />
+    <ns3:hasWebpageObj rdf:resource="https://www.aalto.fi/en/school-of-chemical-engineering" />
+    <ns3:hasWebpageObj rdf:resource="https://www.aalto.fi/en/department-of-bioproducts-and-biosystems" />
+    <ns3:hasWebpageObj rdf:resource="https://www.aalto.fi/en/department-of-chemistry-and-materials-science" />
+    <ns3:hasWebpageObj rdf:resource="https://www.aalto.fi/en/department-of-chemical-and-metallurgical-engineering" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Espoo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aalto_University_School_of_Electrical_Engineering">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Aalto University School of Electrical Engineering</rdfs:label>
+    <rdfs:label xml:lang="fr">École supérieure de Génie électrique (Aalto ELEC)</rdfs:label>
+    <rdfs:label xml:lang="sv">Aalto-universitetets högskola för elektroteknik</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.aalto.fi/en/school-of-electrical-engineering" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Espoo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aalto_University_School_of_Engineering">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Aalto-universitetets högskola för ingenjörsvetenskaper</rdfs:label>
+    <rdfs:label xml:lang="en">Aalto University School of Engineering</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://eng.aalto.fi/en/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Espoo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Centria_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Centria University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.centria.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kokkola" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Ylivieska" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Jakobstad" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metropolia_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="ru">Университет прикладных наук Метрополия</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées Metropolia</rdfs:label>
+    <rdfs:label xml:lang="en">Metropolia University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.sohjoabaltic.eu/" />
+    <ns3:hasWebpageObj rdf:resource="https://helsinkixrcenter.com/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.metropolia.fi/en/about-us/annual-reports/2019" />
+    <ns3:hasWebpageObj rdf:resource="https://www.metropolia.fi/en/international-relations" />
+    <ns3:hasWebpageObj rdf:resource="http://www.metropolia.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.metkaweb.fi/index.php%3Flang=en" />
+    <ns3:hasWebpageObj rdf:resource="http://www.metropolia.fi/en/about-us/annual-report-2015/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.metropolia.fi/en" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_the_Arts_Helsinki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Konstuniversitetet (Helsingfors)</rdfs:label>
+    <rdfs:label xml:lang="pl">Uniwersytet Sztuki w Helsinkach</rdfs:label>
+    <rdfs:label xml:lang="de">Universität der Künste Helsinki</rdfs:label>
+    <rdfs:label xml:lang="en">University of the Arts Helsinki</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет искусств (Хельсинки)</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des arts d&#39;Helsinki</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة هلسنكي للفنون</rdfs:label>
+    <rdfs:label xml:lang="zh">赫爾辛基藝術大學</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.flowfestival.com/en/university-of-the-arts-helsinki-and-flow-festival-present-impressive-arts-program/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.uniarts.fi/en/newsroom/heikki-lehtonen-chair-uniarts-helsinki-board/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.uniarts.fi/en" />
+    <ns3:hasWebpageObj rdf:resource="http://www.uniarts.fi/en/newsroom/new-cross-artistic-campus-be-built-uniarts-helsinki/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.uniarts.fi/en/newsroom/university-cooperation-boosts-art-research-helsinki/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Seinäjoki" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kuopio" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaasa_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Vasa yrkeshögskola</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées de Vaasa</rdfs:label>
+    <rdfs:label xml:lang="en">Vaasa University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="zh">瓦萨工学院</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.puv.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.vamok.fi/%3Fkieli=eng" />
+    <ns3:hasWebpageObj rdf:resource="https://www.vamk.fi/en/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Vaasa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vantaa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Satakunta_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Satakunta University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.youtube.com/user/samkcommunications/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.samk.fi/en/study/master-degree/business-management-and-entrepreneurship/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.samk.fi/en/study/master-degree/welfare-technology/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.samk.fi/en/study/bachelor-degree/international-tourism-development/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.samk.fi/en/study/master-degree/rehabilitation/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/english" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/english/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/en/study/physiotherapy/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/en/study/sea_captain/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/en/about-samk-2/strategy-and-management/organization/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/en/study/academics/maritime-management/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/en/study/logistics/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/en/study/nursing/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/en/study/industrial_management/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.samk.fi/en/study/international_business/" />
+    <ns3:hasWebpageObj rdf:resource="http://theseus.fi/handle/10024/14" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Pori" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saimaa_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Yrkeshögskolan Saima</rdfs:label>
+    <rdfs:label xml:lang="en">Saimaa University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées du Saimaa</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.saimia.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lappeenranta" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kemi-Tornio_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="ru">Университет прикладных наук Кеми-Торнио</rdfs:label>
+    <rdfs:label xml:lang="en">Kemi-Tornio University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="eu">Kemi-Tornioko Zientzia Aplikatuen Unibertsitatea</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://edu.tokem.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.tokem.fi/In_English/Home.iw3" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20120912024928/http:/bit.tokem.fi/ktuas/liike.html" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kemi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Tornio" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.metkaweb.fi/index.php%3Flang=en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://helsinkixrcenter.com/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.metropolia.fi/en/about-us/annual-reports/2019">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sohjoabaltic.eu/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.metropolia.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.metropolia.fi/en/about-us/annual-report-2015/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.utu.fi/en/units/hum/sites/tucemems/Pages/home.aspx/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.metropolia.fi/en/international-relations">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samo.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.frami.fi/briefly-in-english/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.seamk.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.prakticum.fi/om-prakticum/prakticum-in-english.html">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.salpaus.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ramk.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prakticum">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Prakticum</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.prakticum.fi/om-prakticum/prakticum-in-english.html" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Porvoo" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.phkk.fi/english/Sivut/default.aspx">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.salpaus.fi/english/Sivut/default.aspx">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.saimia.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raseborg">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seinäjoki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karelia_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="fr">Université des sciences appliquées de Carélie du Nord</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет прикладных наук «Карелия»</rdfs:label>
+    <rdfs:label xml:lang="en">Karelia University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.karelia.fi/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Joensuu" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asikkala">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hollola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.savonia.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.seamk.fi/in_english.iw3">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.uniarts.fi/en/siba">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evo,_Finland">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lepaa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mustiala">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forssa">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanken_School_of_Economics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="pl">Hanken</rdfs:label>
+    <rdfs:label xml:lang="sv">Svenska handelshögskolan</rdfs:label>
+    <rdfs:label xml:lang="fr">Hanken</rdfs:label>
+    <rdfs:label xml:lang="ar">مدرسة هانكين الاقتصاد</rdfs:label>
+    <rdfs:label xml:lang="zh">漢肯經濟學院</rdfs:label>
+    <rdfs:label xml:lang="en">Hanken School of Economics</rdfs:label>
+    <rdfs:label xml:lang="de">Schwedische Handelshochschule</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.hanken.fi/en/node/470" />
+    <ns3:hasWebpageObj rdf:resource="http://www.eiasm.org/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.edamba.eu/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.shs.fi/en" />
+    <ns3:hasWebpageObj rdf:resource="https://www.hanken.fi/en" />
+    <ns3:hasWebpageObj rdf:resource="http://www.hankennetwork.fi/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.unprme.org/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.unprme.org" />
+    <ns3:hasWebpageObj rdf:resource="http://www.shs.fi/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helsinki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helsinki_University_of_Technology">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="it">Politecnico di Helsinki</rdfs:label>
+    <rdfs:label xml:lang="cs">Helsinská technická univerzita</rdfs:label>
+    <rdfs:label xml:lang="fr">Université technologique d&#39;Helsinki</rdfs:label>
+    <rdfs:label xml:lang="pt">Universidade de Tecnologia de Helsínquia</rdfs:label>
+    <rdfs:label xml:lang="nl">Technische Universiteit Helsinki</rdfs:label>
+    <rdfs:label xml:lang="pl">Techniczny Uniwersytet Helsiński</rdfs:label>
+    <rdfs:label xml:lang="en">Helsinki University of Technology</rdfs:label>
+    <rdfs:label xml:lang="zh">赫尔辛基理工大学</rdfs:label>
+    <rdfs:label xml:lang="ru">Хельсинкский технологический университет</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad Politécnica de Helsinki</rdfs:label>
+    <rdfs:label xml:lang="sv">Tekniska högskolan, Helsingfors</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20130413012652/http:/www.aalto.fi/en/about/history/tkk/" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20060812085319/http:/kva.tkk.fi/en/Studies/Opetus06-07.pdf" />
+    <ns3:hasWebpageObj rdf:resource="http://www.tkk.fi/Current/otaniemi_map.html" />
+    <ns3:hasWebpageObj rdf:resource="https://maps.google.com/maps%3Fll=60.187311,24.833436&amp;spn=0.018224,0.029803&amp;t=k" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20050901143655/http:/www.tkk.fi/Current/otaniemi_map.html" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Espoo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyvinkää">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oulu">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Oulu">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="ar">جامعة أولو</rdfs:label>
+    <rdfs:label xml:lang="pl">Uniwersytet w Oulu</rdfs:label>
+    <rdfs:label xml:lang="uk">Університет Оулу</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет Оулу</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Oulu</rdfs:label>
+    <rdfs:label xml:lang="nl">Universiteit Oulu</rdfs:label>
+    <rdfs:label xml:lang="fr">Université d&#39;Oulu</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Oulu</rdfs:label>
+    <rdfs:label xml:lang="sv">Uleåborgs universitet</rdfs:label>
+    <rdfs:label xml:lang="it">Università di Oulu</rdfs:label>
+    <rdfs:label xml:lang="zh">奥卢大学</rdfs:label>
+    <rdfs:label xml:lang="en">University of Oulu</rdfs:label>
+    <rdfs:label xml:lang="ca">Universitat d&#39;Oulu</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20130205173550/http:/www.oulu.fi/oulanka/en_index.html" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20170418190623/http:/www.oulu.fi/mechanicalengineering/node/16900" />
+    <ns3:hasWebpageObj rdf:resource="https://wiki.oulu.fi/display/genetics/Genetics" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20161227092406/http:/www.oulu.fi/physics/research/astronomy-earth-and-space-physics" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20151001060517/http:/www.oulu.fi/eeng/node/7730" />
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20150808000730/http:/accredited.aacsb.edu/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.oulu.fi/university/" />
+    <ns3:hasWebpageObj rdf:resource="https://nk.oulu.fi/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/biologia" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/biologia/elaintiede" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/biodiversityunit/node/10511" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/biodiversityunit/node/16772" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/biodiversityunit/node/10499" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/biodiversityunit/node/10506" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/architecture/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/architecture/node/6348" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/eeng/node/7913" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/energy" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/eeng/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/eeng/node/7562" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/cse" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/edu/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/biologia/kasvitiede" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/chemistry" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/mathematicsdivision" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/mechanicalengineering/machinedesign" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/itee/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/mathematics/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/humanities/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/industrialengineering/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/english/index.html" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/fbmm/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/oulubusinessschool/finance" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/oulubusinessschool/management-and-international-business-" />
+    <ns3:hasWebpageObj rdf:resource="http://www.mai.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/oulubusinessschool/accounting" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/oulubusinessschool/economics" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/oms" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/oulubusinessschool/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/mechanicalengineering/node/14152" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/medicine" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/physics/space-physics" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/physics/theoretical-physics" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/physics/elsp" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/physics/geophysics" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/physics/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/physics/biophysics" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/oulubusinessschool/marketing" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/oulubusinessschool/mba" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/tol" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/university/dce/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/pyosysen" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/science" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/pyolamen" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/pyometen" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/pyokemen" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/pyokuien" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/water" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/university/masters/wce" />
+    <ns3:hasWebpageObj rdf:resource="http://www.oulu.fi/university/pyosaaen" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Oulu" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lahti">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pieksämäki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Turku">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="pt">Universidade de Turku</rdfs:label>
+    <rdfs:label xml:lang="fr">Université de Turku</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Turku</rdfs:label>
+    <rdfs:label xml:lang="ca">Universitat de Turku</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет Турку</rdfs:label>
+    <rdfs:label xml:lang="pl">Uniwersytet w Turku</rdfs:label>
+    <rdfs:label xml:lang="eu">Turkuko Unibertsitatea</rdfs:label>
+    <rdfs:label xml:lang="in">Universitas Turku</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Turku</rdfs:label>
+    <rdfs:label xml:lang="zh">图尔库大学</rdfs:label>
+    <rdfs:label xml:lang="en">University of Turku</rdfs:label>
+    <rdfs:label xml:lang="nl">Universiteit van Turku</rdfs:label>
+    <rdfs:label xml:lang="it">Università di Turku</rdfs:label>
+    <rdfs:label xml:lang="ko">투르쿠 대학교</rdfs:label>
+    <rdfs:label xml:lang="cs">Univerzita v Turku</rdfs:label>
+    <rdfs:label xml:lang="sv">Åbo universitet</rdfs:label>
+    <rdfs:label xml:lang="uk">Університет Турку</rdfs:label>
+    <rdfs:label xml:lang="ja">トゥルク大学</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة توركو</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.tucs.fi/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.utu.fi/en" />
+    <ns3:hasWebpageObj rdf:resource="https://www.utu.fi/study" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Turku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kouvola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kymenlaakso_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Kymenlaakso University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.xamk.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kouvola" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kotka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LUT_University">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="pt">Universidade Politécnica de Lappeenranta</rdfs:label>
+    <rdfs:label xml:lang="ja">ラッペーンランタ大学</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad Politécnica de Lappeenranta</rdfs:label>
+    <rdfs:label xml:lang="ru">Технологический университет Лаппеэнранта</rdfs:label>
+    <rdfs:label xml:lang="zh">拉彭兰塔理工大学</rdfs:label>
+    <rdfs:label xml:lang="fr">Université de technologie de Lappeenranta</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة لابينرنتا للتكنولوجيا</rdfs:label>
+    <rdfs:label xml:lang="sv">Villmanstrand–Lahtis tekniska universitet</rdfs:label>
+    <rdfs:label xml:lang="de">Technische Universität Lappeenranta</rdfs:label>
+    <rdfs:label xml:lang="nl">Technische Universiteit Lappeenranta</rdfs:label>
+    <rdfs:label xml:lang="en">LUT University</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.lut.fi/en" />
+    <ns3:hasWebpageObj rdf:resource="http://www.ltky.fi/en" />
+    <ns3:hasWebpageObj rdf:resource="http://www.lut.fi/en/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lahti" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lappeenranta" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lappeenranta">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laurea_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="fr">Université des sciences appliquées Laurea</rdfs:label>
+    <rdfs:label xml:lang="en">Laurea University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.laureamko.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.laurea.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.laureaes.fi/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lohja" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Vantaa" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Espoo" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Porvoo" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Hyvinkää" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valkeakoski">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.arcada.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.hamk.fi/%3Flang=en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://theseus.fi/handle/10024/14">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.savotta.org/sw">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.samk.fi/en/study/master-degree/rehabilitation/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20110104195413/http:/portal.savonia.fi/amk/english/apply-to-degree-programmes">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.youtube.com/user/samkcommunications/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/en/about-samk-2/strategy-and-management/organization/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/en/study/academics/maritime-management/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/en/study/industrial_management/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/en/study/international_business/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/en/study/logistics/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/en/study/nursing/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/en/study/physiotherapy/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/en/study/sea_captain/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/english">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.samk.fi/english/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.samk.fi/en/study/bachelor-degree/international-tourism-development/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.samk.fi/en/study/master-degree/business-management-and-entrepreneurship/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.samk.fi/en/study/master-degree/welfare-technology/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Espoo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joensuu">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jyväskylä">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuopio">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pori">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nurmijärvi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.helbus.com/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tkk.fi/Current/otaniemi_map.html">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://minedu.fi/en/heis-and-science-agencies">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.helbus.com">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://maps.google.com/maps%3Fll=60.187311,24.833436&amp;spn=0.018224,0.029803&amp;t=k">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20050901143655/http:/www.tkk.fi/Current/otaniemi_map.html">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20060812085319/http:/kva.tkk.fi/en/Studies/Opetus06-07.pdf">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20130413012652/http:/www.aalto.fi/en/about/history/tkk/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.kamk.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.kamk.fi/en/Applicants/International-Degrees/Bachelors-Degree-in-International-Business/4b592265-88b8-43e9-89aa-3fcdfdbbd442">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.kamk.fi/en/Applicants/How-to-Apply-for-Studies-at-KAMK">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.kamk.fi/en/Applicants/International-Degrees/Bachelors-Degree-in-Esports-Business/c0b4b339-642a-43b5-a527-6fbbd7363de4">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.kamk.fi/en/Applicants/International-Degrees/Bachelors-Degree-in-Sports-and-Leisure-Management/303a7a53-9e5a-409a-ae4e-24cecb6d9fa8">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.kamk.fi/en/Applicants/International-Degrees/Bachelors-Degree-in-Tourism/9e97a9ab-a54e-4db9-8a30-7ee141e350bd">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.kamk.fi/en/Applicants/International-Degrees/Masters-Degree-in-International-Business-Management/8db2dc1d-c3e3-4768-937c-ef20457a514c">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tritonia_Academic_Library">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Tritonia Academic Library</rdfs:label>
+    <rdfs:label xml:lang="fr">Bibliothèque scientifique Tritonia</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.tritonia.fi/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Vaasa" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Jakobstad" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Turku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turku_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Åbo yrkeshögskola</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées de Turku</rdfs:label>
+    <rdfs:label xml:lang="en">Turku University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="de">Turku University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.tuas.fi/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.tuas.fi" />
+    <ns3:hasWebpageObj rdf:resource="https://www.facebook.com/tuas.int.students/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.varsinais-suomi.fi/index.php%3Foption=com_content&amp;view=article&amp;id=264&amp;Itemid=374&amp;lang=en" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Salo,_Finland" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Turku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Eastern_Finland">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="zh">东芬兰大学</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Ostfinnland</rdfs:label>
+    <rdfs:label xml:lang="fr">Université de l&#39;Est de la Finlande</rdfs:label>
+    <rdfs:label xml:lang="sv">Östra Finlands universitet</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة شرق فنلندا</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет Восточной Финляндии</rdfs:label>
+    <rdfs:label xml:lang="nl">Universiteit van Oost-Finland</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Finlandia Oriental</rdfs:label>
+    <rdfs:label xml:lang="en">University of Eastern Finland</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.researchgate.net/publication/227461345_Comparing_higher_education_reforms_in_Finland_and_Portugal_different_contexts_same_solutions" />
+    <ns3:hasWebpageObj rdf:resource="https://www.uef.fi/en/etusivu" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Joensuu" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kuopio" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Helsinki">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="uk">Гельсінський університет</rdfs:label>
+    <rdfs:label xml:lang="el">Πανεπιστήμιο του Ελσίνκι</rdfs:label>
+    <rdfs:label xml:lang="ca">Universitat de Hèlsinki</rdfs:label>
+    <rdfs:label xml:lang="ko">헬싱키 대학교</rdfs:label>
+    <rdfs:label xml:lang="eo">Universitato de Helsinko</rdfs:label>
+    <rdfs:label xml:lang="en">University of Helsinki</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Helsinki</rdfs:label>
+    <rdfs:label xml:lang="it">Università di Helsinki</rdfs:label>
+    <rdfs:label xml:lang="pl">Uniwersytet Helsiński</rdfs:label>
+    <rdfs:label xml:lang="eu">Helsinkiko Unibertsitatea</rdfs:label>
+    <rdfs:label xml:lang="fr">Université d&#39;Helsinki</rdfs:label>
+    <rdfs:label xml:lang="in">Universitas Helsinki</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة هلسنكي</rdfs:label>
+    <rdfs:label xml:lang="sv">Helsingfors universitet</rdfs:label>
+    <rdfs:label xml:lang="zh">赫尔辛基大学</rdfs:label>
+    <rdfs:label xml:lang="ru">Хельсинкский университет</rdfs:label>
+    <rdfs:label xml:lang="pt">Universidade de Helsinque</rdfs:label>
+    <rdfs:label xml:lang="ja">ヘルシンキ大学</rdfs:label>
+    <rdfs:label xml:lang="cs">Helsinská univerzita</rdfs:label>
+    <rdfs:label xml:lang="nl">Universiteit van Helsinki</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Helsinki</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.helsinki.fi/en/helsinki-institute-of-life-science" />
+    <ns3:hasWebpageObj rdf:resource="https://www.helsinki.fi/en/hilife-institute-of-biotechnology" />
+    <ns3:hasWebpageObj rdf:resource="https://www.helsinki.fi/en/hilife-neuroscience-center" />
+    <ns3:hasWebpageObj rdf:resource="http://www.helsinki.fi/teknos/opetustilat/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.helsinki.fi/en" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lohja">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swedish_Polytechnic">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Svenska yrkeshögskolan</rdfs:label>
+    <rdfs:label xml:lang="en">Swedish Polytechnic</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.syh.fi/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Vaasa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ak.ayy.fi/ak/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://arts.aalto.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://biz.aalto.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://chem.aalto.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://econ.aalto.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://elec.aalto.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eng.aalto.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://media.aalto.fi/fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sci.aalto.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.lume.fi/lumenet.nsf/paasivut/base_eng">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.aalto.fi/en/department-of-chemical-and-metallurgical-engineering">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://arts.aalto.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.aalto.fi/en/department-of-bioproducts-and-biosystems">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.aalto.fi/en/department-of-chemistry-and-materials-science">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.aalto.fi/en/school-of-business">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.aalto.fi/en/school-of-chemical-engineering">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.aalto.fi/en/school-of-chemical-engineering/research-infrastructure">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.aalto.fi/en/school-of-electrical-engineering">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-chemical-engineering">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.aalto.fi/en/study-options/kemian-tekniikka-tekniikan-kandidaatti-ja-diplomi-insinoori">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://architectuul.com">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.baltech.info">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://archive.is/20130106204150/http:/www.taik.fi/tokyo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20120205184913/http:/econ.aalto.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tornio">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nastola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virrat">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tampere_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="fr">Université des sciences appliquées de Tampere</rdfs:label>
+    <rdfs:label xml:lang="en">Tampere University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="pt">Universidade de Ciências Aplicadas de Tampere</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.tuni.fi/en" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Ikaalinen" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Tampere" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Virrat" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Mänttä-Vilppula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20050930231109/http:/aec.cramgo.nl/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sibelius_Academy">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Konstuniversitetets Sibelius-Akademi</rdfs:label>
+    <rdfs:label xml:lang="ru">Академия имени Сибелиуса</rdfs:label>
+    <rdfs:label xml:lang="de">Sibelius-Akademie</rdfs:label>
+    <rdfs:label xml:lang="pt">Academia Sibelius</rdfs:label>
+    <rdfs:label xml:lang="uk">Академія імені Сібеліуса</rdfs:label>
+    <rdfs:label xml:lang="ca">Acadèmia Sibelius</rdfs:label>
+    <rdfs:label xml:lang="it">Accademia Sibelius</rdfs:label>
+    <rdfs:label xml:lang="nl">Sibeliusacademie</rdfs:label>
+    <rdfs:label xml:lang="es">Academia Sibelius</rdfs:label>
+    <rdfs:label xml:lang="zh">西贝柳斯音乐学院</rdfs:label>
+    <rdfs:label xml:lang="ar">أكاديمية سيبيليوس</rdfs:label>
+    <rdfs:label xml:lang="pl">Akademia Sibeliusa</rdfs:label>
+    <rdfs:label xml:lang="fr">Académie Sibelius</rdfs:label>
+    <rdfs:label xml:lang="en">Sibelius Academy</rdfs:label>
+    <rdfs:label xml:lang="ja">シベリウス音楽院</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://web.archive.org/web/20050930231109/http:/aec.cramgo.nl/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.aec-music.eu/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.uniarts.fi/en/siba" />
+    <ns3:hasWebpageObj rdf:resource="http://www.uniarts.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.facebook.com/sibeliusacademy" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HAMK_Häme_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">HAMK Häme University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées HAMK</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.hamk.fi/%3Flang=en" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Lepaa" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Forssa" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Valkeakoski" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Evo,_Finland" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Riihimäki" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Hämeenlinna" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Mustiala" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HUMAK_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="fr">Université humaniste des sciences appliquées Humak</rdfs:label>
+    <rdfs:label xml:lang="en">HUMAK University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.humak.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kauniainen" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Jyväskylä" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kuopio" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Joensuu" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Tornio" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Nurmijärvi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Äänekoski" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Turku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haaga-Helia_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Haaga-Helia University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="fr">Université des sciences appliquées Haaga-Helia</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.haaga-helia.fi/en/about-haaga-helia/haaga-helia-in-a-nutshell" />
+    <ns3:hasWebpageObj rdf:resource="http://myy.helia.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://www.haaga-helia.fi/en/" />
+    <ns3:hasWebpageObj rdf:resource="http://amk20.haaga-helia.fi/en/HAAGA-HELIAs_roots" />
+    <ns3:hasWebpageObj rdf:resource="http://myy.helia.fi/~mba/" />
+    <ns3:hasWebpageObj rdf:resource="https://www.youtube.com/watch%3Fv=AUCjD8pyIfQ" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Vierumäki" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Porvoo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinola">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helsinki_School_of_Business">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Helsinki School of Business</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.helbus.com" />
+    <ns3:hasWebpageObj rdf:resource="https://minedu.fi/en/heis-and-science-agencies" />
+    <ns3:hasWebpageObj rdf:resource="http://www.helbus.com/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.helsinki.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tampere_Vocational_College_Tredu">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Tampere Vocational College Tredu</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://tredu.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.tredu.fi/en/index.html" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Tampere" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Äänekoski">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.uarctic.org/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ulapland.fi/InEnglish">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.uwasa.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.vamk.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.jyu.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.utu.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.abo.fi/%3Flang=en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.uniarts.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.oulu.fi/university/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.uef.fi/en/etusivu">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tredu.fi/en/index.html">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://taika.uwasa.fi/crisyp/disp/_/en/welcome/nop%3Fkieli=1&amp;menuid=0">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.mai.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.puv.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.uva.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.vaasahighedu.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.vamok.fi/%3Fkieli=eng">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nk.oulu.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://wiki.oulu.fi/display/genetics/Genetics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://architectuul.com/architecture/jyvaskyla-university">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/architecture/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/architecture/node/6348">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/biodiversityunit/node/10499">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/biodiversityunit/node/10506">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/biodiversityunit/node/10511">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/biodiversityunit/node/16772">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/biologia">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/biologia/elaintiede">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/biologia/kasvitiede">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/chemistry">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/cse">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/edu/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/eeng/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/eeng/node/7562">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/eeng/node/7913">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/energy">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/english/index.html">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/fbmm/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/humanities/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/industrialengineering/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/itee/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/mathematics/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/mathematicsdivision">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/mechanicalengineering/machinedesign">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/mechanicalengineering/node/14152">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/medicine">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/oms">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/oulubusinessschool/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/oulubusinessschool/accounting">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/oulubusinessschool/economics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/oulubusinessschool/finance">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/oulubusinessschool/management-and-international-business-">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/oulubusinessschool/marketing">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/oulubusinessschool/mba">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/physics/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/physics/biophysics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/physics/elsp">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/physics/geophysics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/physics/space-physics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/physics/theoretical-physics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/pyokemen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/pyokuien">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/pyolamen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/pyometen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/pyosysen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/science">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/tol">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/university/dce/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/university/masters/wce">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/university/pyosaaen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oulu.fi/water">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.helsinki.fi/en/helsinki-institute-of-life-science">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.helsinki.fi/en/hilife-institute-of-biotechnology">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.helsinki.fi/en/hilife-neuroscience-center">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.jyu.fi/en/research/excellence-in-research/academy-professors/academy-professors">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.jyu.fi/en/research/excellence-in-research/centres-of-excellence-in-research">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.jyu.fi/en/research/excellence-in-research/erc-funded-researchers/erc-funded-researchers-european-research-council">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.jyu.fi/en/research/excellence-in-research/rankings/rankings">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.jyu.fi/en/university/history-and-campus/campus-and-history">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tucs.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.flowfestival.com/en/university-of-the-arts-helsinki-and-flow-festival-present-impressive-arts-program/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.uniarts.fi/en/newsroom/heikki-lehtonen-chair-uniarts-helsinki-board/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.uniarts.fi/en/newsroom/new-cross-artistic-campus-be-built-uniarts-helsinki/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.uniarts.fi/en/newsroom/university-cooperation-boosts-art-research-helsinki/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.uarctic.org">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.voas.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://osuva.uwasa.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20071010141229/http:/www.uarctic.org/governance_structure_os_230507_asosradn_RbRaX.pdf.file">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20130205173550/http:/www.oulu.fi/oulanka/en_index.html">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20150808000730/http:/accredited.aacsb.edu/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20151001060517/http:/www.oulu.fi/eeng/node/7730">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20161227092406/http:/www.oulu.fi/physics/research/astronomy-earth-and-space-physics">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20170418190623/http:/www.oulu.fi/mechanicalengineering/node/16900">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.researchgate.net/publication/227461345_Comparing_higher_education_reforms_in_Finland_and_Portugal_different_contexts_same_solutions">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.helsinki.fi/teknos/opetustilat/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.utu.fi/study">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aalto_University_School_of_Business">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="sv">Aalto-universitetets handelshögskola</rdfs:label>
+    <rdfs:label xml:lang="ko">알토 대학교 경영대학원</rdfs:label>
+    <rdfs:label xml:lang="pl">Helsińska Wyższa Szkoła Handlu</rdfs:label>
+    <rdfs:label xml:lang="zh">阿爾托大學經濟學院</rdfs:label>
+    <rdfs:label xml:lang="fr">École supérieure de commerce de l&#39;université Aalto</rdfs:label>
+    <rdfs:label xml:lang="en">Aalto University School of Business</rdfs:label>
+    <rdfs:label xml:lang="de">Handelshochschule Helsinki</rdfs:label>
+    <rdfs:label xml:lang="el">Σχολή Οικονομικών του Πανεπιστημίου Άαλτο</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="https://www.aalto.fi/en/school-of-business" />
+    <ns3:hasWebpageObj rdf:resource="http://biz.aalto.fi/en/" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Espoo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hämeenlinna">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IDBM">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">IDBM</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.idbm.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.businessweek.com/stories/2009-11-09/new-design-programs-emerging-worldwide" />
+    <ns3:hasWebpageObj rdf:resource="http://www.aalto.fi/en/studies/admissions" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Helsinki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iisalmi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikaalinen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kajaani">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kajaani_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="fr">Université des sciences appliquées de Kajaani</rdfs:label>
+    <rdfs:label xml:lang="en">Kajaani University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.cemis.fi" />
+    <ns3:hasWebpageObj rdf:resource="http://www.kamk.fi/en" />
+    <ns3:hasWebpageObj rdf:resource="https://www.kamk.fi/en/Applicants/International-Degrees/Bachelors-Degree-in-International-Business/4b592265-88b8-43e9-89aa-3fcdfdbbd442" />
+    <ns3:hasWebpageObj rdf:resource="https://www.kamk.fi/en/Applicants/International-Degrees/Bachelors-Degree-in-Esports-Business/c0b4b339-642a-43b5-a527-6fbbd7363de4" />
+    <ns3:hasWebpageObj rdf:resource="https://www.kamk.fi/en/Applicants/International-Degrees/Bachelors-Degree-in-Sports-and-Leisure-Management/303a7a53-9e5a-409a-ae4e-24cecb6d9fa8" />
+    <ns3:hasWebpageObj rdf:resource="https://www.kamk.fi/en/Applicants/How-to-Apply-for-Studies-at-KAMK" />
+    <ns3:hasWebpageObj rdf:resource="https://www.kamk.fi/en/Applicants/International-Degrees/Bachelors-Degree-in-Tourism/9e97a9ab-a54e-4db9-8a30-7ee141e350bd" />
+    <ns3:hasWebpageObj rdf:resource="https://www.kamk.fi/en/Applicants/International-Degrees/Masters-Degree-in-International-Business-Management/8db2dc1d-c3e3-4768-937c-ef20457a514c" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kajaani" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kauniainen">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orimattila">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Porvoo">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cemis.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.centria.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.aec-music.eu/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rovaniemi_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="en">Rovaniemi University of Applied Sciences</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет прикладных наук Рованиеми</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.ramk.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Rovaniemi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South-Eastern_Finland_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="fr">Université des sciences appliquées du Sud-Est de la Finlande</rdfs:label>
+    <rdfs:label xml:lang="en">South-Eastern Finland University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.xamk.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Savonlinna" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kotka" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Kouvola" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Mikkeli" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.jamk.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikkeli_University_of_Applied_Sciences">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland" />
+    <rdfs:label xml:lang="de">Fachhochschule Mikkeli</rdfs:label>
+    <rdfs:label xml:lang="en">Mikkeli University of Applied Sciences</rdfs:label>
+    <ns3:hasWebpageObj rdf:resource="http://www.xamk.fi" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Savonlinna" />
+    <ns3:hasInCity rdf:resource="http://dbpedia.org/resource/Mikkeli" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.metropolia.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.syh.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tritonia.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tut.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.tuni.fi/en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tredu.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tuas.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tucemems.utu.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.mpkk.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://web.archive.org/web/20160213155540/http:/www.puolustusvoimat.fi/en/National_Defence_University/Front_Page/%3Furile=wcm%3Apath%3A%2Fen%20puolustusvoimat.fi%2FPuolustusvoimat.fi%20en%2FNational%20Defence%20University%2FFront%20Page%2F">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oamk.fi/en/study-at-oamk/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oamk.fi/en/study-at-oamk/school-of-professional-teacher-education">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.novia.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.mpkk.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.oamk.fi/en/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.novia.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.facebook.com/sibeliusacademy">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.uniarts.fi">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tuas.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.facebook.com/tuas.int.students/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.utu.fi/">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.varsinais-suomi.fi/index.php%3Foption=com_content&amp;view=article&amp;id=264&amp;Itemid=374&amp;lang=en">
+    <rdf:type rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#City">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#City_In_Finland">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+    <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasWebpageObj">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#WebPage">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#University_In_Finland">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class" />
+    <rdfs:subClassOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasInCity">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University" />
+    <rdfs:range rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://users.jyu.fi/~maihbt/cv-ontology.owl#isCityFor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty" />
+    <owl:inverseOf rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#hasInCity" />
+    <rdfs:domain rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#City" />
+    <rdfs:range rdf:resource="http://users.jyu.fi/~maihbt/cv-ontology.owl#University" />
+  </rdf:Description>
+</rdf:RDF>

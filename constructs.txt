@@ -1,0 +1,221 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX db: <http://dbpedia.org/page/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX dbpedia: <http://dbpedia.org/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX dbt: <http://dbpedia.org/resource/Template:>
+PREFIX dbc: <http://dbpedia.org/resource/Category:>
+
+PREFIX : <http://users.jyu.fi/~maihbt/cv-ontology.owl#>
+
+CONSTRUCT {
+	:Ethnic_Group a owl:Class.
+	:Southeast_Asia_Ethnic_Group 	a 		owl:Class; 
+					rdfs:subClassOf	:Ethnic_Group .
+	?x a :Southeast_Asia_Ethnic_Group
+} WHERE {
+	dbr:Ethnic_groups_of_Southeast_Asia dbo:wikiPageWikiLink ?x .
+	?x rdfs:label ?label.
+	FILTER REGEX(?label, "people", "i")
+}
+
+
+CONSTRUCT {
+	:Country 	a	owl:Class.
+	:Nordic_Country	a	owl:Class;
+			rdfs:subClassOf	:Country .
+	?x		a	:Nordic_Country.
+
+	:City			a 	owl:Class.
+	:City_In_Finland	a	owl:Class;
+				rdfs:subClassOf	:City .
+	?y		a	:City_In_Finland.
+	?capital a :City.
+
+	:isCapitalOf		a		owl:ObjectProperty;
+				rdfs:domain	:City;
+				rdfs:range	:Country.
+	?capital		:isCapitalOf	?x.	
+} WHERE {
+	?x 	dbo:capital			?capital.
+	?x 	rdf:type			dbo:Country.
+	?x	dbp:wikiPageUsesTemplate	dbt:Nordic_countries.	
+	
+	?y	rdf:type			dbo:City.
+	?y	dbo:country            		dbr:Finland.
+}
+
+CONSTRUCT {
+	dbo:PersonFunction	a	owl:Class.
+	?x 			a		dbo:PersonFunction.
+} WHERE {
+	?x rdf:type dbo:PersonFunction.
+	?x dbo:wikiPageWikiLink dbr:Software_developer.
+}
+
+CONSTRUCT {
+	:University			a		owl:Class.
+	:University_In_Thailand		a		owl:Class;
+					rdfs:subClassOf	:University.
+	?x	a	:University_In_Thailand.
+
+	:City			a 	owl:Class.
+	:City_In_Thailand	a	owl:Class;
+				rdfs:subClassOf	:City .
+	?city			a	:City_In_Thailand.
+
+	:hasInCity		a		owl:ObjectProperty;
+				rdfs:domain	:University;
+				rdfs:range	:City.	
+			
+	:isCityFor		a		owl:ObjectProperty;
+				owl:inverseOf	:hasInCity;
+				rdfs:domain	:City;
+				rdfs:range	:University.
+
+	?x			:hasInCity	?city.
+} WHERE {
+	?x	rdf:type	dbo:University.
+	?x	dbo:city	?city.
+	?x	dbo:country	dbr:Thailand.
+}
+
+CONSTRUCT {
+	:University			a		owl:Class.
+	:University_In_Finland		a		owl:Class;
+					rdfs:subClassOf	:University.
+	?x	a	:University_In_Finland.
+
+	:City			a 	owl:Class.
+	:City_In_Finland	a	owl:Class;
+				rdfs:subClassOf	:City .
+	?city			a	:City_In_Finland.
+
+	:hasInCity		a		owl:ObjectProperty;
+				rdfs:domain	:University;
+				rdfs:range	:City.	
+			
+	:isCityFor		a		owl:ObjectProperty;
+				owl:inverseOf	:hasInCity;
+				rdfs:domain	:City;
+				rdfs:range	:University.
+
+	?x			:hasInCity	?city.
+
+	:hasWebpage rdf:type owl:ObjectProperty ;
+		rdfs:domain owl:Thing;
+            rdfs:range owl:Thing .
+
+	:WebPage 	a	owl:Class.
+	?link		a	:WebPage.
+	?x			:hasWebpage	?link.
+	?x			rdfs:label	?label.
+} WHERE {
+	?x	rdf:type	dbo:University.
+	?x	dbo:city	?city.
+	?x	dbo:country	dbr:Finland.
+	?x	dbo:wikiPageExternalLink	?link.
+	?x	rdfs:label	?label.
+}
+
+
+
+CONSTRUCT {
+	:Car			a			owl:Class.
+	:Skoda_Car		a			owl:Class;
+				rdfs:subClassOf		:Car.
+	?x	a	:Skoda_Car.
+	?x	rdfs:label	?label.
+
+	dbo:Image		a	owl:Class.		
+	dbo:thumbnail		a		owl:ObjectProperty;
+				rdfs:domain	:Car;
+				rdfs:range	dbo:Image.
+	?thumbnail		a	dbo:Image.
+	?x			dbo:thumbnail	?thumbnail.
+	
+	:isThumbnailOf		a		owl:ObjectProperty;
+				owl:inverseOf	dbo:thumbnail;
+				rdfs:range	:Car;
+				rdfs:domain	dbo:Image.
+} WHERE {
+	?x	rdf:type		dbo:Automobile.
+	?x	dbo:manufacturer	dbr:Škoda_Auto.
+	?x	dbo:thumbnail		?thumbnail.
+	?x	rdfs:label		?label.
+}
+
+
+
+CONSTRUCT {
+	:Skill			a		owl:Class.
+	:ProgrammingSkill	a		owl:Class;
+				rdfs:subClassOf	:Skill.
+	:SportSkill		a		owl:Class;
+				rdfs:subClassOf	:Skill.
+	?x		a	:ProgrammingSkill.
+	?y		a	:SportSkill
+} WHERE {
+	?x 	rdf:type			dbo:ProgrammingLanguage.
+	?x	dbo:wikiPageWikiLink		dbr:Object-oriented_programming.
+	?y	rdf:type	dbo:Sport.
+}
+
+
+
+CONSTRUCT {
+	:Skill			a		owl:Class.
+	:ProgrammingSkill	a		owl:Class;
+				rdfs:subClassOf	:Skill.
+	:SportSkill		a		owl:Class;
+				rdfs:subClassOf	:Skill.
+	?x		a	:ProgrammingSkill.
+	?y a :SportSkill.
+
+	:hasSkill		a		owl:ObjectProperty;
+				rdfs:domain	dbo:Person;
+				rdfs:range	:Skill.
+	:hasProgrammingSkill	a		owl:ObjectProperty;
+				rdfs:subPropertyOf	:hasSkill;
+				rdfs:domain	dbo:Person;
+				rdfs:range	:ProgrammingSkill.
+	:hasSportSkill	a		owl:ObjectProperty;
+				rdfs:subPropertyOf	:hasSkill;
+				rdfs:domain	dbo:Person;
+				rdfs:range	:SportSkill.
+
+	:isSkillOf		a		owl:ObjectProperty;
+				rdfs:domain	:Skill;
+				rdfs:range	dbo:Person.
+	:isProgrammingSkillOf	a		owl:ObjectProperty;
+				rdfs:subPropertyOf	:isSkillOf;
+				owl:inverseOf	:hasProgrammingSkill;
+				rdfs:domain	:ProgrammingSkill;
+				rdfs:range	dbo:Person.
+	:isSportSkillOf		a		owl:ObjectProperty;
+				rdfs:subPropertyOf	:isSkillOf;
+				owl:inverseOf	:hasSportSkill;
+				rdfs:domain	:SportSkill;
+				rdfs:range	dbo:Person.
+} WHERE {
+	?x 	rdf:type			dbo:ProgrammingLanguage.
+	{?x	dbo:wikiPageWikiLink		dbr:Web_development.} UNION {?x	dbo:wikiPageWikiLink		dbr:Web_server}
+	?y	rdf:type	dbo:Sport.
+	?y dbo:wikiPageWikiLink	 dbc:Summer_Olympic_sports.
+}
+
+
+
+
+CONSTRUCT {
+	:City			a 	owl:Class.
+	?city			a	:City.
+
+} WHERE {
+	?x	dbo:city	?city.
+	?x	dbo:country	dbr:Iran.
+}
